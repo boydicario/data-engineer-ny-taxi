@@ -1,0 +1,8 @@
+*.json
+*.gz
+*.csv
+*.txt
+*.env
+# Ignore the entire 1_terraform_gcp folder
+1_terraform_gcp/
+02-workflow-orchestration-data-ingest/airflow/.google/
