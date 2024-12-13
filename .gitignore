@@ -3,6 +3,7 @@
 *.txt
 *.env
 *.log
+*.java
 1_terraform_gcp/
 02-workflow-orchestration-data-ingest/airflow/.google/
 01-docker-terraform/2_docker_sql/ny_taxi_postgres_data/
