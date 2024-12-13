@@ -1,6 +1,5 @@
 *.json
 *.gz
-*.csv
 *.txt
 *.env
 *.log
